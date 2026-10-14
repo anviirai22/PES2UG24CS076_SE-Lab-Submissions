@@ -1,7 +1,3 @@
-# SE-Lab-Submissions
-Software Engineering Lab Submissions
-
-
 # Software Engineering Lab Submissions
 
 This repository contains the lab submissions completed as part of the Software Engineering Lab course.
