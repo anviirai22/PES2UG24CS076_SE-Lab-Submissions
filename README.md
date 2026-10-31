@@ -16,4 +16,5 @@ This repository contains the lab submissions completed as part of the Software E
 | Lab 3 | `LAB3/` | DOCX, PDF |
 | Lab 4 | `PES2UG24CS076_LAB4_SE/` | PDF, supporting videos |
 | Lab 5 | `PES2UG24CS076_L5_13_pharmacy_stock/` | Pharmacy Stock project |
+| Lab 6 & 7 | `PES2UG24CS076_L6_L7_13_pet_walking_service/` | Pet Walking Service project |
 
