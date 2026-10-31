@@ -1,3 +1,6 @@
 [submodule "PES2UG24CS076_L5_13_pharmacy_stock"]
 	path = PES2UG24CS076_L5_13_pharmacy_stock
 	url = https://github.com/anviirai22/PES2UG24CS076_L5_13_pharmacy_stock.git
+[submodule "PES2UG24CS076_L6_L7_13_pet_walking_service"]
+	path = PES2UG24CS076_L6_L7_13_pet_walking_service
+	url = https://github.com/anviirai22/PES2UG24CS076_L6_L7_13_pet_walking_service.git
